@@ -1,14 +1,14 @@
 # PracticasPW1
 
-No.Control:19120071
+No.Control:
 
-Nombre:Marleny Carrera Peña
+Nombre:
 
-CURP:CAPM970328MPLRXR02
+CURP:
 
-Domiciolio:Revolucion 7 pantzingo de morelos ajalpan puebla 
+Domiciolio:
 
-Numero de telefono:2361128867
+Numero de telefono:
 
-Correo institucional:19120071@ajalpan.tecnm.mx
+Correo institucional:
 
