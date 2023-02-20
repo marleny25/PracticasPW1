@@ -6,10 +6,10 @@ Nombre:
 
 CURP:
 
-Domiciolio:
+Domicilio:
 
-Numero de telefono:
+Nùmero de telefono:
 
 Correo institucional:
 
-Rama 1
+
